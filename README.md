@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akila chamara</h1>
+
+<h1 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Hi 👋, I'm Akila chamara</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akilach01&label=Profile%20views&color=0e75b6&style=flat" alt="Akilach01" /> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akilach01" alt="Akilach01" /></a> </p>
 

@@ -3,9 +3,13 @@
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akilach01&label=Profile%20views&color=0e75b6&style=flat" alt="Akilach01" /> </p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akilach01" alt="Akilach01" /></a> </p>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **java**
 
@@ -22,6 +26,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akilach01&show_icons=true&locale=en&layout=compact" alt="Akilach01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilach01&show_icons=true&locale=en" alt="akilach01" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Akilach01&show_icons=true&locale=en" alt="Akilach01" /></p>
 
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akilach01&" alt="akilach01" /></p>
+
+
+### 🐍 &nbsp;That's How Commits move ...
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>

@@ -29,9 +29,10 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Akilach01&show_icons=true&locale=en" alt="Akilach01" /></p>
 
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akilach01&" alt="akilach01" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akilach01&" alt="Akilach01" /></p>
 
+<br><br>
 ### 🐍 &nbsp;That's How Commits move ...
 <!-- Snake animation -->
 <div align="center">
